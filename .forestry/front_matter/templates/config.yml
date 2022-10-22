@@ -24,7 +24,7 @@ fields:
   label: Favicon
   type: file
   hidden: false
-  default: ''
+  default: "/upload/favicon-32x32.png"
 - name: navigation
   label: Navigation
   type: field_group_list
